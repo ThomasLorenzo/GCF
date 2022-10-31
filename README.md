@@ -1,5 +1,3 @@
-# Gerenciamento de Catálogos de Filmes
-
 ![logo (1)](https://user-images.githubusercontent.com/101607968/198910701-dd220728-d8f0-4aa8-94c1-ff92b2dc0399.png)
 
 • Olá, está é uma aplicação criada com o intuito de permitir o gerenciamento de catálogos de filmes!
