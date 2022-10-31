@@ -1,6 +1,6 @@
-## Gerenciamento de Catálogos de Filmes (GCF)
+# Gerenciamento de Catálogos de Filmes (GCF)
 
-# Resumo
+## Resumo
 
 Olá, está é uma aplicação criada com o intuito de permitir o gerenciamento de catálogos de filmes!
 
@@ -10,7 +10,7 @@ O mesmo foi criado utilizando a linguagem de programação Visual Basic for Appl
 
 
 
-# Gostaria de pontuar:
+## Gostaria de pontuar:
 
 Atualmente não possuo o conhecimento necessário para poder desenvolver essa mesma lógica em um sistema web, utilizando Angular 2+ ou não. 
 
