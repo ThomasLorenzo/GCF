@@ -2,9 +2,9 @@
 
 # Resumo do Projeto
 
-Olá, meu nome é Thomas, sou estudante de Engenheria de Software e essa é uma aplicação criada por mim com o intuito de permitir o gerenciamento de catálogos de filmes!
+Olá, meu nome é Thomas, sou estudante de Engenheria de Software e essa é uma aplicação criada por mim com o intuito de permitir o gerenciamento de catálogos de filmes! 😀
 
-Existem diversas funções para personalizar sua experiência de uso com o sistema. Além de verificações para que o uso seja padronizado e não prejudicado.
+Existem diversas funções para personalizar a experiência de uso com o sistema. Além de verificações para que o uso seja padronizado e não prejudicado.
 
 O mesmo foi criado utilizando a linguagem de programação Visual Basic for Applications (VBA), atrelada ao Excel, mas também presente em outros programas do pacote Microsoft Office.
 
@@ -14,11 +14,9 @@ O mesmo foi criado utilizando a linguagem de programação Visual Basic for Appl
 **2. Pode ser possível que após aberto ele não execute propriamente devido ao bloqueio de execução de macros padrão no Microsoft Excel. Ao final desse documento segue um passo a passo para a correção, vale salientar que dependendo da versão essas instruções podem ser diferentes.**
 
 
-#Estágio CIEE:
+# Gostaria de pontuar (Estágio CIEE)
 
-Atualmente não possuo o conhecimento necessário para poder desenvolver essa mesma lógica em um sistema web, utilizando Angular 2+ ou não. 
-
-Tenho grande interesse e curiosidade em aprender, quero inovar, mudar, fazer parte de projetos que utilizem de tecnologias relevantes, que sejam mudança para o futuro. Mas no momento não possuou o tempo que gostaria e nem a oportunidade. 
+Atualmente não possuo conhecimento nos requisitos necessários para desenvolver uma aplicação web, muito menos utilizando Angular 2. Tenho imenso interesse e curiosidade em aprender, quero fazer parte de times de desenvolvimento, projetos que utilizem de tecnologias relevantes, que sejam mudança para o futuro.
 
 Quanto a API REST e desenvolver a mesma, acredito que com um maior prazo para planejamento e desenvolvimento, seria possível sim criar e utilizar, basta entender melhor os processos e colocar em prática a téoria. 
 
