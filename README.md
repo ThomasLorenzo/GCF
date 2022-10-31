@@ -8,6 +8,8 @@ Existem diversas funções para personalizar sua experiência de uso com o siste
 
 O mesmo foi criado utilizando a linguagem de programação Visual Basic for Applications (VBA), muito utilizada no Excel mas presente em diversos programas do pacote Microsoft Office.
 
+**É necessário que os aplicativos Microsoft Excel e Microsoft Acess acima das versões de 2013 esteja instalada para que seja possível utilizar a aplicação.**
+
 ## Gostaria de pontuar:
 
 Atualmente não possuo o conhecimento necessário para poder desenvolver essa mesma lógica em um sistema web, utilizando Angular 2+ ou não. 
