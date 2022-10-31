@@ -2,13 +2,13 @@
 
 ## Resumo
 
-Olá, está é uma aplicação criada com o intuito de permitir o gerenciamento de catálogos de filmes!
+• Olá, está é uma aplicação criada com o intuito de permitir o gerenciamento de catálogos de filmes!
 
-Existem diversas funções para personalizar sua experiência de uso com o sistema. Além de verificações para que o uso não seja prejudica e padronizado.
+• Existem diversas funções para personalizar sua experiência de uso com o sistema. Além de verificações para que o uso não seja prejudica e padronizado.
 
-O mesmo foi criado utilizando a linguagem de programação Visual Basic for Applications (VBA), muito utilizada no Excel mas presente em diversos programas do pacote Microsoft Office.
+• O mesmo foi criado utilizando a linguagem de programação Visual Basic for Applications (VBA), muito utilizada no Excel mas presente em diversos programas do pacote Microsoft Office.
 
-### **É necessário que os aplicativos Microsoft Excel e Microsoft Acess acima das versões de 2013 esteja instalada para que seja possível utilizar a aplicação.**
+### **É necessário que os aplicativos Microsoft Excel e Microsoft Access nas versões de 2013 ou acima esteja instalada para que seja possível utilizar a aplicação. Ambos estão presente em alguns dos pacotes Office.**
 
 ## Gostaria de pontuar:
 
