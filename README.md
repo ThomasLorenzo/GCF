@@ -8,6 +8,10 @@ Existem diversas funções para personalizar a experiência de uso com o sistema
 
 O mesmo foi criado utilizando a linguagem de programação Visual Basic for Applications (VBA), atrelada ao Excel, mas também presente em outros programas do pacote Microsoft Office.
 
+Todos os códigos podem ser acessados abrindo o arquivo 'GCF - Códigos.xlsm' na pasta 'Arquivos' e utilizando o comando ALT + F11. Os códigos permanecem dentro dos módulos padrões, de classe e formulários.
+
+![image](https://user-images.githubusercontent.com/101607968/198916046-9cf4179b-a247-4e11-a382-c2478e6e737b.png)
+
 
 **1. É necessário que os aplicativos Microsoft Excel e Microsoft Access nas versões 2013 ou acima estejam instalados para que seja possível utilizar a aplicação. Ambos aplicativos estão presente em alguns dos pacotes Microsoft Office.**
 
