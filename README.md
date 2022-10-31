@@ -6,17 +6,17 @@ Olá, meu nome é Thomas, sou estudante de Engenheria de Software e essa é uma 
 
 Existem diversas funções para personalizar a experiência de uso com o sistema. Além de verificações para que o uso seja padronizado e não prejudicado.
 
+O projeto está em fase de desenvolvimento, portanto pode existir alguns problemas não resolvidos ainda e mudanças futuras, mas essa já é uma versão utilizável. 
+
 O mesmo foi criado utilizando a linguagem de programação Visual Basic for Applications (VBA), atrelada ao Excel, mas também presente em outros programas do pacote Microsoft Office.
-
-Todos os códigos podem ser acessados abrindo o arquivo 'GCF - Códigos.xlsm' na pasta 'Arquivos' e utilizando o comando ALT + F11. Os códigos permanecem dentro dos módulos padrões, de classe e formulários.
-
-![image](https://user-images.githubusercontent.com/101607968/198916046-9cf4179b-a247-4e11-a382-c2478e6e737b.png)
-
 
 **1. É necessário que os aplicativos Microsoft Excel e Microsoft Access nas versões 2013 ou acima estejam instalados para que seja possível utilizar a aplicação. Ambos aplicativos estão presente em alguns dos pacotes Microsoft Office.**
 
 **2. Pode ser possível que após aberto ele não execute propriamente devido ao bloqueio de execução de macros padrão no Microsoft Excel. Ao final desse documento segue um passo a passo para a correção, vale salientar que dependendo da versão essas instruções podem ser diferentes.**
 
+Todos os códigos podem ser acessados abrindo o arquivo 'GCF - Códigos.xlsm' na pasta 'Arquivos' e utilizando o comando ALT + F11. Os códigos permanecem dentro dos módulos padrões, de classe e formulários.
+
+![image](https://user-images.githubusercontent.com/101607968/198916046-9cf4179b-a247-4e11-a382-c2478e6e737b.png)
 
 # Gostaria de pontuar (Estágio CIEE)
 
@@ -25,7 +25,6 @@ Atualmente não possuo conhecimento nos requisitos necessários para desenvolver
 Quanto a API REST e desenvolver a mesma, acredito que com um maior prazo para planejamento e desenvolvimento, seria possível sim criar e utilizar, basta entender melhor os processos e colocar em prática a téoria. 
 
 Meu contato com SQL Server foi muito superficial, não tive oportunidade de apronfundar no assunto.
-
 
 # Correção em caso de bloqueio das macros
 
